@@ -1,0 +1,10 @@
+{
+    "name": "Random Generations",
+    "score": 150,
+    "category": "Misc",
+    "grader": "misc/randgen/grader.py",
+    "description": "I heard gambling is bad for you, but let's see if you can make it bad for these guys: x.x.x.x:xxxx",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Some gamblers are really bad random number pickers."
+}
