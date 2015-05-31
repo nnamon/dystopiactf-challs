@@ -1,0 +1,10 @@
+{
+    "name": "Divided We Stand",
+    "score": 100,
+    "category": "Crypto",
+    "grader": "crypto/dividedwestand/grader.py",
+    "description": "The Giant got locked out of his own Beanstalk! Jack and Jill tricked him and installed their own <a target=_blank href='/problem-static/crypto/tldr/tldr.txt'>authentication system</a>. Can you help him correct this injustice? Their server is at: x.x.x.x:xxxx.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Study up on your math!"
+}
