@@ -1,0 +1,10 @@
+{
+    "name": "Kindermath",
+    "score": 125,
+    "category": "Programming",
+    "grader": "programming/kindermath/grader.py",
+    "description": "Did you listen to your math teacher in Kindergarten? Test it out here: x.x.x.x:xxxx",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Do it fast."
+}
