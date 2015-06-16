@@ -1,10 +1,10 @@
 {
-    "name": “Raid Zero”,
+    "name": "Raid Zero",
     "score": 75,
     "category": "Forensics",
     "grader": "forensics/raidzero/grader.py",
-    "description": “We managed to recover some data from the NSA (Naughty Seal Alliance). However, our team of experts can’t seem to make sense of the <a target=_blank href='/problem-static/forensics/raidzero/raidzero.zip’>data</a>.”,
+    "description": "We managed to recover some data from the NSA (Naughty Seal Alliance). However, our team of experts can’t seem to make sense of the <a target=_blank href='/problem-static/forensics/raidzero/raidzero.zip’>data</a>.",
     "threshold": 0,
     "weightmap": {},
-    "hint": “You open the lock with the key”
+    "hint": "You open the lock with the key"
 }
