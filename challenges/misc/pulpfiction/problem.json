@@ -1,0 +1,10 @@
+{
+    "name": "Pulp Fiction",
+    "score": 150,
+    "category": "Misc",
+    "grader": "misc/pulpfiction/grader.py",
+    "description": "Open the <a target=_blank href='/problem-static/misc/pulpfiction/pulpfiction.py'>briefcase</a>.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "."
+}
