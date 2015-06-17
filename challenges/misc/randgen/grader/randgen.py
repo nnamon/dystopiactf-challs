@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# socat -T 20 TCP-LISTEN:6001,fork EXEC:./randgen.py,pty,ctty,echo=0
+
 import random
 import sys
 import time
