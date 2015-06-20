@@ -1,0 +1,10 @@
+{
+    "name": "Cyberdeia",
+    "score": 50,
+    "category": "Web",
+    "grader": "web/cyberdelia/grader.py",
+    "description": "Oh snap! You forgot to make <a href='x'>reservations</a> for our gathering tonight (12 June 2015) at 1900hrs. Better get it resolved!",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Modify values"
+}
