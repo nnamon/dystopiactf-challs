@@ -1,0 +1,10 @@
+{
+    "name": "Lolttery",
+    "score": 25,
+    "category": "Programming",
+    "grader": "programming/lolttery/grader.py",
+    "description": "Try your luck at the lottery game: x.x.x.x:xxxx",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "look for an optimal way to reduce the search space"
+}
