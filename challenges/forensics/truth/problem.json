@@ -1,0 +1,10 @@
+{
+    "name": "Truth",
+    "score": 50,
+    "category": "forensics",
+    "grader": "forensics/truth/grader.py",
+    "description": "",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

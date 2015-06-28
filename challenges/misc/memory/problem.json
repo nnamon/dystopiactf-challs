@@ -1,0 +1,10 @@
+{
+    "name": "Memory",
+    "score": 50,
+    "category": "Misc",
+    "grader": "misc/memory/grader.py",
+    "description": "",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}
