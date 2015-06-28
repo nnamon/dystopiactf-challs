@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Misc",
     "grader": "misc/pulpfiction/grader.py",
-    "description": "Open the <a target=_blank href='/problem-static/misc/pulpfiction/pulpfiction.py'>briefcase</a>.",
+    "description": "Open the briefcase. Script running at x.x.x.x:xxxx.",
     "threshold": 0,
     "weightmap": {},
     "hint": "."

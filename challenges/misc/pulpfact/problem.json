@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Misc",
     "grader": "misc/pulpfact/grader.py",
-    "description": "So you've gotten the briefcase open in the Pulp Fiction challenge? But what's actually in it? Here is the <a target=_blank href='/problem-static/misc/pulpfact/pulpfact.py'>script</a>.",
+    "description": "So you've gotten the briefcase open in the Pulp Fiction challenge? But what's actually in it? Script is running at x.x.x.x:xxxx.",
     "threshold": 0,
     "weightmap": {},
     "hint": ""
