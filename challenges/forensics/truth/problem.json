@@ -1,7 +1,7 @@
 {
     "name": "Truth",
     "score": 50,
-    "category": "forensics",
+    "category": "Forensics",
     "grader": "forensics/truth/grader.py",
     "description": "",
     "threshold": 0,
