@@ -1,6 +1,6 @@
 {
     "name": "Truth",
-    "score": 50,
+    "score": 100,
     "category": "Forensics",
     "grader": "forensics/truth/grader.py",
     "description": "",

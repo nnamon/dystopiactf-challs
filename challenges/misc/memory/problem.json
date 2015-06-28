@@ -1,6 +1,6 @@
 {
     "name": "Memory",
-    "score": 50,
+    "score": 75,
     "category": "Misc",
     "grader": "misc/memory/grader.py",
     "description": "",

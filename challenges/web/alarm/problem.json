@@ -1,6 +1,6 @@
 {
     "name": "Alarm",
-    "score": 50,
+    "score": 100,
     "category": "Web",
     "grader": "web/alarm/grader.py",
     "description": "Raise the alarm! It's the <a href='x'>Sunshine Band!</a>.",

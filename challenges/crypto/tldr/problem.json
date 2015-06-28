@@ -1,6 +1,6 @@
 {
     "name": "tl;dr",
-    "score": 50,
+    "score": 75,
     "category": "Crypto",
     "grader": "crypto/tldr/grader.py",
     "description": "Someone sent us this <a target=_blank href='/problem-static/crypto/tldr/tldr.txt'>file</a> but it is too long for us to read. Can you help me find the flag? Note: Does not contain the 'flag{}' encapsulation.",

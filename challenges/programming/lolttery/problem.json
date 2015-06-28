@@ -1,6 +1,6 @@
 {
     "name": "Lolttery",
-    "score": 25,
+    "score": 150,
     "category": "Programming",
     "grader": "programming/lolttery/grader.py",
     "description": "Try your luck at the lottery game: x.x.x.x:xxxx",
