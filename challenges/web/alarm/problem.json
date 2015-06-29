@@ -3,7 +3,7 @@
     "score": 100,
     "category": "Web",
     "grader": "web/alarm/grader.py",
-    "description": "Raise the alarm! It's the <a href='x'>Sunshine Band!</a>.",
+    "description": "Raise the alarm! It's the <a href='http://play.iwanttoplayaga.me:8081/'>Sunshine Band!</a>.",
     "threshold": 0,
     "weightmap": {},
     "hint": "Alarm!"

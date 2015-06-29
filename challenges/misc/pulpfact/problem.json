@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Misc",
     "grader": "misc/pulpfact/grader.py",
-    "description": "So you've gotten the briefcase open in the Pulp Fiction challenge? But what's actually in it? Script is running at x.x.x.x:xxxx.",
+    "description": "So you've gotten the briefcase open in the Pulp Fiction challenge? But what's actually in it?<br />Server is running at play.iwanttoplayaga.me:1341.",
     "threshold": 0,
     "weightmap": {},
     "hint": ""

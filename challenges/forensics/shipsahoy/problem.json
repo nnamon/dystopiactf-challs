@@ -3,7 +3,7 @@
     "score": 50,
     "category": "Forensics",
     "grader": "forensics/shipsahoy/grader.py",
-    "description": "We received some <a target=_blank href='/problem-static/forensics/shipsahoy/ahoy.pcapng'>herenetwork traffic</a> from our network sniffer installed on our target's server at x.x.x.x.",
+    "description": "We received some <a target=_blank href='/problem-static/forensics/shipsahoy/ahoy.pcapng'>network traffic</a> from our network sniffer installed on our target's server at play.iwanttoplayaga.me.",
     "threshold": 0,
     "weightmap": {},
     "hint": "Look harder"

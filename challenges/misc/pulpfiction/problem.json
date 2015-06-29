@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Misc",
     "grader": "misc/pulpfiction/grader.py",
-    "description": "Open the briefcase. Script running at x.x.x.x:xxxx.",
+    "description": "Open the briefcase. <br />Server is running at play.iwanttoplayaga.me:1342.",
     "threshold": 0,
     "weightmap": {},
     "hint": "."
