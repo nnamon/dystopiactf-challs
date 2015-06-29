@@ -3,7 +3,7 @@
     "score": 75,
     "category": "Misc",
     "grader": "misc/memory/grader.py",
-    "description": "",
+    "description": "This <a target=_blank href='/problem-static/misc/memory/Memory.docx’>essay</a> seems to contain a mysterious riddle.",
     "threshold": 0,
     "weightmap": {},
     "hint": ""
