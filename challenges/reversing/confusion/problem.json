@@ -1,0 +1,10 @@
+{
+    "name": "Confusion",
+    "score": 200,
+    "category": "Reversing",
+    "grader": "reversing/confusion/grader.py",
+    "description": "We found a <a target=_blank href='/problem-static/reversing/confusion/flag.crypt'>file</a> encoded using some sadistic <a target=_blank href='/problem-static/reversing/confusion/confusion.py'>script</a>. PLEASE SAVE OUR SOULS!",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "hahahahaha, i'm sorry. Ain't helping you with this one."
+}
