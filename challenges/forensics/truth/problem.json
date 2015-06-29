@@ -3,7 +3,7 @@
     "score": 100,
     "category": "Forensics",
     "grader": "forensics/truth/grader.py",
-    "description": "",
+    "description": "Even though Sophia's <a target=_blank href='/problem-static/forensics/truth/TheTruth.pdf’>last letter</a> states that Patrick is the culprit, Thomas has his doubts. The evidence mentioned in the letter turned up at a different locker than the one Sophia uses. If Sophia didn't put it in her usual locker, why did she not mention it in the letter? Is the truth we see, really the truth?",
     "threshold": 0,
     "weightmap": {},
     "hint": ""
