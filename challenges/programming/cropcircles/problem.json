@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Programming",
     "grader": "programming/cropcircles/grader.py",
-    "description": "Recently, an aircraft surveillance party found some <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.jpg'>strange circular patterns</a> in the nearby corn fields. When they turned on their radio transceiver to report back to mission control, they received <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.enc'>this</a> weird transmission which seems to be heavily encoded. We suspect extraterrestrial activity, so here's some <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.py'>software</a> that we found on the moon not long ago.",
+    "description": "Recently, an aircraft surveillance party found some <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.jpg'>strange circular patterns</a> in the nearby corn fields. When they turned on their radio transceiver to report back to mission control, they received <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.enc'>this</a> weird transmission which seems to be heavily encoded. We suspect extraterrestrial activity.",
     "threshold": 0,
     "weightmap": {},
     "hint": "Perhaps the crop circles and the transmission share the same encoding scheme?"
