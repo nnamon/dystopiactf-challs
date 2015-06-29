@@ -1,0 +1,10 @@
+{
+    "name": "IRC Check",
+    "score": 10,
+    "category": "Sanity",
+    "grader": "sanity/ircheck/grader.py",
+    "description": "Visit the Dystopia CTF IRC and look around for a flag.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Look at About."
+}

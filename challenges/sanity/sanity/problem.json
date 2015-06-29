@@ -1,6 +1,6 @@
 {
     "name": "Sanity Check",
-    "score": 1,
+    "score": 10,
     "category": "Sanity",
     "grader": "sanity/sanity/grader.py",
     "description": "Please submit the flag found <a target=_blank href='/problem-static/sanity/sanity/sanity.txt'>here</a>.",
