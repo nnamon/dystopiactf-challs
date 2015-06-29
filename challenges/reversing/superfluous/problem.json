@@ -1,0 +1,10 @@
+{
+    "name": "Superfluous",
+    "score": 50,
+    "category": "Reversing",
+    "grader": "reversing/superflouous/grader.py",
+    "description": "This <a target=_blank href='/problem-static/reversing/superfluous/superfluous’>program</a> is so weird, I can't make any sense out of it and it's <a target=_blank href='/problem-static/reversing/superfluous/whatisthisnonsense.enc'>output</a>.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}
