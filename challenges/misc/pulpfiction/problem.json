@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Misc",
     "grader": "misc/pulpfiction/grader.py",
-    "description": "Open the briefcase. <br />Server is running at play.iwanttoplayaga.me:1342.",
+    "description": "Open the <a target=_blank href='/problem-static/crypto/pulpfiction/pulpfiction.py'>briefcase</a>. <br />Server is running at play.iwanttoplayaga.me:1342.",
     "threshold": 0,
     "weightmap": {},
     "hint": "."
