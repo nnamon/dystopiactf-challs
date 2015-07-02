@@ -1,0 +1,10 @@
+{
+    "name": "Cartels",
+    "score": 150,
+    "category": "Reversing",
+    "grader": "reversing/cartels/grader.py",
+    "description": "Scary drug cartels are scary. We found this <a target=_blank href='/problem-static/reversing/cartels/cartels.pyc'>package</a> at our doorstep.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "This is really easy."
+}
