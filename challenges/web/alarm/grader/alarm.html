@@ -4,7 +4,7 @@
 <script>
 function run_stuff() {
     data = document.getElementById("scriptrun").value;
-    if (data.includes("alert")) {
+    if (data.indexOf("alert") > -1) {
         document.getElementById("message").innerHTML = "BAD CONTENT TO EVALUATE!"
 
     }
