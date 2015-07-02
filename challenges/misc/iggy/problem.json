@@ -1,9 +1,9 @@
 {
     "name": "Iggy",
-    "score": 200,
+    "score": 250,
     "category": "Misc",
     "grader": "misc/iggy/grader.py",
-    "description": "I'm so fancy, you already know. Queue Up, Queue Up, let's take selfies! Server is at play.iwanttoplayaga.me:xxxx",
+    "description": "I'm so fancy, you already know. Queue Up, Queue Up, let's take selfies! Server is at play.iwanttoplayaga.me:1346",
     "threshold": 0,
     "weightmap": {},
     "hint": ""
