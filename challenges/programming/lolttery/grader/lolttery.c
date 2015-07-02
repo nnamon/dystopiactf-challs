@@ -26,7 +26,7 @@ int main()
     srand(time(NULL));
 
     int secret = rand() % 1000000 + 1;
-    char guess[7];
+    char guess[9];
 
     print_banner();
 
