@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 from binascii import hexlify
 from collections import Counter
 from heapq import heappush, heappop, heapify
