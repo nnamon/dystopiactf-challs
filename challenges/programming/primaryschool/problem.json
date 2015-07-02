@@ -3,8 +3,8 @@
     "score": 200,
     "category": "Programming",
     "grader": "programming/primaryschool/grader.py",
-    "description": "You wanna graduate from primary school? Not so easy!<br />You have to prove that you are decent enough to progress to secondary school!<br />I've encrypted the flag (consisting of exactly 16 characters) using AES-128 in ECB mode repeatedly, and the final ciphertext is 3a8efadcc8531f6ee3e5eaeed174d34d (in hexadecimal representation).<br />The keys used to encrypt the flag are the raw bytes of every fourth cumulative sum of all prime numbers between 0 to 1,000,000,000, left-padded with null bytes until the key length is exactly 16 bytes. In case you don't know what I'm saying, the first few keys used to encrypt the flag were 00000000000000000000000000000011, 0000000000000000000000000000004d and 000000000000000000000000000000c5 (in hexadecimal representation).<br />Well, what are you waiting for? Get to work!",
+    "description": "You wanna graduate from primary school? Not so easy!<br />You have to prove that you are decent enough to progress to secondary school!<br />I've encrypted the flag (consisting of exactly 16 characters) using AES-128 in ECB mode repeatedly, and the final ciphertext is 3a8efadcc8531f6ee3e5eaeed174d34d (in hexadecimal representation).<br />The keys used to encrypt the flag are the raw bytes of every fourth cumulative sum of all prime numbers between 0 to 1,000,000,000, left-padded with null bytes until the key length is exactly 16 bytes. In case you don't know what I'm saying, the first few keys used to encrypt the flag were 00000000000000000000000000000011, 0000000000000000000000000000004d and 000000000000000000000000000000c5 (in hexadecimal representation).<br />Well, what are you waiting for? Get to work!<br /><br />UPDATE: Encapsulate the flag with 'flag{}' before submitting!",
     "threshold": 0,
     "weightmap": {},
-    "hint": ""
+    "hint": "Make sure your last three decryption keys matches the first three encryption keys listed, as well as ensure your first decryption key is right!"
 }
