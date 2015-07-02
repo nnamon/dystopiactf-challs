@@ -1,0 +1,10 @@
+{
+    "name": "Iggy",
+    "score": 200,
+    "category": "Misc",
+    "grader": "misc/iggy/grader.py",
+    "description": "I'm so fancy, you already know. Queue Up, Queue Up, let's take selfies! Server is at play.iwanttoplayaga.me:xxxx",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}
