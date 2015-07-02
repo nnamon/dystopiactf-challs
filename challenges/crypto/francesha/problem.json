@@ -3,7 +3,7 @@
     "score": 400,
     "category": "Crypto",
     "grader": "crypto/francesha/grader.py",
-    "description": "Frances Halladay has got the spins, so she's putting a foot down and lying in bed. She's got to get <a target=_blank href='/problem-static/crypto/francesha/francesha.png'>this</a> done by tonight though.",
+    "description": "Frances Halladay has got the spins, so she's putting a foot down and lying in bed. She's got to get <a target=_blank href='/problem-static/crypto/francesha/francesha.png'>this</a> done by tonight though. NEW HINT: The flag is comprimised fully of letters.",
     "threshold": 0,
     "weightmap": {},
     "hint": "Solve this"
