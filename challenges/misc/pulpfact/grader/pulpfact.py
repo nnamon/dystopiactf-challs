@@ -22,7 +22,7 @@ def validate(user_pass):
         if user_pass[i] != PASSWORD[i]:
             safeprint("Sorry your password is incorrect!")
             return
-        time.sleep(15.0)
+        time.sleep(15.0*i)
     if PASSWORD == user_pass:
         safeprint("Your password is correct!")
         safeprint("Here is your flag: %s" % FLAG)
