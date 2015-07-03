@@ -3,7 +3,7 @@
     "score": 200,
     "category": "Programming",
     "grader": "programming/cropcircles/grader.py",
-    "description": "Recently, an aircraft surveillance party found some <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.jpg'>strange circular patterns</a> in the nearby corn fields. When they turned on their radio transceiver to report back to mission control, they received <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.enc'>this</a> weird transmission which seems to be heavily encoded. We suspect extraterrestrial activity.",
+    "description": "Recently, an aircraft surveillance party found some <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.jpg'>strange circular patterns</a> in the nearby corn fields. When they turned on their radio transceiver to report back to mission control, they received <a target=_blank href='/problem-static/programming/cropcircles/cropcircles.enc'>this</a> weird transmission which seems to be heavily encoded. We suspect extraterrestrial activity. Note: The last part of the flag is 15. Not 'fifteen' or 50.",
     "threshold": 0,
     "weightmap": {},
     "hint": "Perhaps the crop circles and the transmission share the same encoding scheme?"
