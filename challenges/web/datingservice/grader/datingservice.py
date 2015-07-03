@@ -46,4 +46,4 @@ def date_img():
     response.set_header("Content-Type", "image/png")
     return data
 
-run(host="0.0.0.0", port=8082, server="gunicorn", workers=4)
+run(host="0.0.0.0", port=1348, server="gunicorn", workers=4)
