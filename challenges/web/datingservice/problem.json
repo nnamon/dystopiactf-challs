@@ -3,7 +3,7 @@
     "score": 250,
     "category": "Web",
     "grader": "web/datingservice/grader.py",
-    "description": "Hi all, we have started a new dating service! Please <a href='http://play.iwanttoplayaga.me:1348'>try it out</a>! Flag is at /home/datingservice/flag.txt",
+    "description": "Hi all, we have started a new dating service! Please <a href='http://play.iwanttoplayaga.me:8082'>try it out</a>! Flag is at /home/datingservice/flag.txt",
     "threshold": 0,
     "weightmap": {},
     "hint": "Maybe you should consider a makeover!"
