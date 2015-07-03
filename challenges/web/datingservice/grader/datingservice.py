@@ -1,6 +1,6 @@
 from bottle import get, post, request, response, run # or route
 
-import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 import datetime
 import StringIO
 import base64
