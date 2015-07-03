@@ -19,9 +19,7 @@ for i in ms:
     mr.append(r)
 
 for i in mr:
-    x = 0
-    for j in i:
-        x = x ^ j
+    x = reduce(lambda a,b: a^b, [ord(message[p]) for p in i])
     l = " \oplus ".join("x_{%d}" % z for z in i)
     print l + " = " + str(x) + "\\\\"
 
