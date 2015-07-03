@@ -1,6 +1,6 @@
 {
     "name": "Nucleus",
-    "score": 250,
+    "score": 300,
     "category": "Reversing",
     "grader": "reversing/nucleus/grader.py",
     "description": "Bighead managed to get us a sample of a <a target=_blank href='/problem-static/reversing/nucleus/flag.nuc'>file</a> compressed with nucleus. Unfortunately that big head of his is only good for building potato cannons so he accidentally provided us with a <a target=_blank href='/problem-static/reversing/nucleus/flag.corrupt'>corrupted version</a> of the uncompressed file. Reverse engineer nucleus and retrieve the uncompressed file. Nucleus is hosted at: play.iwanttoplayaga.me:1447",
