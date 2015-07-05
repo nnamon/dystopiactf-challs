@@ -1,0 +1,10 @@
+{
+    "name": "Summertime",
+    "score": 250,
+    "category": "Crypto",
+    "grader": "crypto/summertime/grader.py",
+    "description": "We've intercepted what looks like an attempt to steal the nuclear launch codes. Can you please make sense of <a target=_blank href='/problem-static/crypto/summertime/summer.png'>this</a> for us please? Additionally, they left <a target=_blank href='/problem-static/crypto/summertime/summertime.py'>this</a> lying around.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Solve this"
+}

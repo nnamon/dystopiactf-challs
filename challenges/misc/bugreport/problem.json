@@ -1,0 +1,10 @@
+{
+    "name": "Bug Report",
+    "score": 250,
+    "category": "Misc",
+    "grader": "misc/bugreport/grader.py",
+    "description": "If you've noticed a bug in our systems or challenges, please report it to us. You might get points! (This isn't an actual challenge. But the system admins will give you the flag if you report to us over IRC or email)",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Bugs"
+}
