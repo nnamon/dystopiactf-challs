@@ -1,0 +1,10 @@
+{
+    "name": "Nihon",
+    "score": 350,
+    "category": "QR",
+    "grader": "qr/nihon/grader.py",
+    "description": "We had a QR code that we wanted to show to you guys but RAINBOW KITTY&nbsp;<img src='/problem-static/qr/nihon/rainbowkitty.gif' />&nbsp;<a target=_blank href='/problem-static/qr/nihon/rainbowed.png'>puked all over it</a>! Help us fix it pleaaaaaaaase?",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Solomon loves some reeds."
+}

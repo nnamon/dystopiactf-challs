@@ -1,0 +1,10 @@
+{
+    "name": "Wall Street",
+    "score": 400,
+    "category": "Programming",
+    "grader": "programming/wallstreet/grader.py",
+    "description": "Want to make piles and piles of money? I heard the secret is in this weird <a target=_blank href='/problem-static/programming/wallstreet/wallstreet.png'>image</a>.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Well, they are obviously QR codes."
+}
