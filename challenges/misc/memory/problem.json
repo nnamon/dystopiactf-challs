@@ -3,7 +3,7 @@
     "score": 75,
     "category": "Misc",
     "grader": "misc/memory/grader.py",
-    "description": "This <a target=_blank href='/problem-static/misc/memory/Memory.docx'>essay</a> seems to contain a mysterious riddle. UPDATE: The flag has the flag{} encapsulation but the problem text will not yield the flag with it. SHA512 checksum is d5ba7b4de8ef23dcbf094d5f7a4910b91f543e1e6fa9ab6dc88bdb186d290cc90c1acb7091f6872476eccd56f4d8dc1c2e882c872674db42b71d2afa8fb47eda.",
+    "description": "This <a target=_blank href='/problem-static/misc/memory/Memory.docx'>essay</a> seems to contain a mysterious riddle. UPDATE: The flag has the flag{} encapsulation but the problem text will not yield the flag with it. SHA512 checksum is d5ba7b4de8ef23dcbf094d5f7a4910b91f543e1e6fa9ab6dc88bdb186d290cc90c1acb7091f6872476eccd56f4d8dc1c2e882c872674db42b71d2afa8fb47eda. UPDATE 2: So looks like that there was a problem with the challenge. Sorry to those who cracked their heads like crazy trying to get the flag for such a low point challenge so... here's a free flag: flag{passion_patience_resonate}.",
     "threshold": 0,
     "weightmap": {},
     "hint": ""
