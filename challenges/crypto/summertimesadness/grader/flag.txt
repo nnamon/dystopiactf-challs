@@ -1,0 +1,1 @@
+So, the problem with the previous launch code was that the message was short and could easily be recoverable since the modulus wasn't even playing any part in the recovery. So right now our message is longer and flag{B4by_c4n_y0u_s33_thr0ugh_th3_t34rs}

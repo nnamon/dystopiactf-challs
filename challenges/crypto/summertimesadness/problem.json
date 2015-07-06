@@ -1,0 +1,10 @@
+{
+    "name": "Summertime Sadness",
+    "score": 350,
+    "category": "Crypto",
+    "grader": "crypto/summertimesadness/grader.py",
+    "description": "We've intercepted another attempt to steal the nuclear launch codes. It seems like <a target=_blank href='/problem-static/crypto/summertimesadness/summer.pcapng'>they were aware</a> we were snooping on them. They could stand to be a little less <a target=_blank href='/problem-static/crypto/summertimesadness/summertimesadness.py'>careless</a> though.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Solve this"
+}
