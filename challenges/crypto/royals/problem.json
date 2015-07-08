@@ -1,0 +1,10 @@
+{
+    "name": "Royals",
+    "score": 350,
+    "category": "Crypto",
+    "grader": "crypto/royals/grader.py",
+    "description": "Margot Tenenbaum, CEO of Royals RSA, is offering a huge bounty if anyone can break their crypto system! Please try and get that money :) Their service is at: play.iwanttoplayaga.me:1350",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Get royally smart."
+}
