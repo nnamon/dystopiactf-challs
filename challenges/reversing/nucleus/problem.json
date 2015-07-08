@@ -1,0 +1,10 @@
+{
+    "name": "Nucleus",
+    "score": 300,
+    "category": "Reversing",
+    "grader": "reversing/nucleus/grader.py",
+    "description": "",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}
